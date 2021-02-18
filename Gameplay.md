@@ -15,14 +15,9 @@ There is a solitary red button at the bottom that enables you to pass a cycle wi
 
 Houses, hotels and factories have different properties as listed below.
 
--------------------------------------------------------
 | Property    | Houses     | Hotels      | Factories  |
--------------------------------------------------------
+|:-----------:|:----------:|:-----------:|:----------:|
 | Cost/unit   | 20 * level | 150 * level | 50 * level |
--------------------------------------------------------
 | People/unit | 2          | 20          | 15         |
--------------------------------------------------------
 | Rent/unit   | $5         | $15         | $10        |
--------------------------------------------------------
 | Tax/unit    | $2         | $7          | $5         |
--------------------------------------------------------
