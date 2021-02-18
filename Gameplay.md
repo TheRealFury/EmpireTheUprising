@@ -1,4 +1,5 @@
-# EmpireTheUprising
+# Empire : The Uprising
+
 This is the gameplay documentation for the very first game in the series 'Empire'. I am the game's sole designer and coder.
 
 My real name is Ayush Bhatt. The idea to make this game is completely mine and has not been copied from anywhere alse.
@@ -14,6 +15,16 @@ The column on the left shows the amount of houses, hotels, factories, money and 
 There are also buttons on the right that allow you to buy the items that are on the immediate left, and are colored in red. There is a blue button on the right which can be used to upgrade your level.
 
 There is a solitary red button at the bottom that enables you to pass a cycle without having to buy anything or upgrade.
+
+### What is a cycle?
+
+A cycle can be thought of as the number of actions performed. Here are some actions that count as cycles :-
+
+ - Clicking the Load button at the bottom-left of the screen.
+ - Buying any property (See next section - "What are hotels, houses and factories?").
+ - Upgrading your level.
+
+Additionally, whenever a cycle is finished, tax is cut from money and rent is added to the money 
 
 ### What are hotels, houses and factories?
 
