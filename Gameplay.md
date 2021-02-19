@@ -4,7 +4,9 @@ This is the gameplay documentation for the very first game in the series 'Empire
 
 My real name is Ayush Bhatt. The idea to make this game is completely mine and has not been copied from anywhere alse.
 
-## WHat is the objective of this game, and how to play?
+# [LINK TO THE GAME](https://studio.code.org/projects/gamelab/fuPqklM6yI-9YmbAGuY4gaS_sdJuRWwVmnatmkz20oc)
+
+## What is the objective of this game, and how to play?
 
 The game's objective is to buy hotels, houses and factories with money to increase the amount of money that you already have. Buying these will also increase the people that are in your kingdom. The amount of people money, hotels, houses and factories that you have will define your score at the end of the game.
 
