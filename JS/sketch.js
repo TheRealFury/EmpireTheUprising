@@ -24,7 +24,7 @@ function setup(){
   createCanvas(windowWidth,windowHeight);
 }
 function draw(){
-  background('white');
+  background('black');
   checkBuy();
   checkSell();
   WriteVal();
